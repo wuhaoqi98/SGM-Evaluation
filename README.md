@@ -3,6 +3,8 @@
 [Sparse Graphical Memory (SGM)](https://mishalaskin.github.io/sgm/) is a data structure for reinforcement-learning agents to solve long-horizon, sparse-reward navigation tasks.
 This codebase is a TensorFlow implementation of SGM accompanying the paper [Sparse Graphical Memory for Robust Planning](https://arxiv.org/abs/2003.06417).
 
+This project is an evaluation of SGM for the purpose of course project. Please refer to https://mishalaskin.github.io/sgm/ for original implementation. 
+
 ## To install:
 1. Create a new conda environment: `conda create -n sgm python=3.6`
 2. Activate the conda environment: `conda activate sgm`
